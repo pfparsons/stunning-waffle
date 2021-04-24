@@ -1,0 +1,23 @@
+{
+  "name": "node-api-example",
+  "version": "0.0.1",
+  "description": "native library experiement for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfparsons/stunning-waffle.git"
+  },
+  "keywords": [
+    "arrow",
+    "node"
+  ],
+  "author": "pfparsons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfparsons/stunning-waffle/issues"
+  },
+  "homepage": "https://github.com/pfparsons/stunning-waffle#readme"
+}
